@@ -13,6 +13,7 @@
         "express-jwt": "^6.0.0",
         "faker": "6.6.6",
         "jsonwebtoken": "^8.5.1",
+        "mongodb": "^4.4.1",
         "next": "^11.0.1",
         "prop-types": "^15.7.2",
         "react": "^17.0.2",
